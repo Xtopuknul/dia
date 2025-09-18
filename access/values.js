@@ -1,21 +1,21 @@
 // Активировать документы (true - включены, false - отключены)
 var isRightsEnabled = true; // Права
-var isCovidCertificateEnabled = true; // COVID-сертификат
+var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "01.01.2001"; // Дата рождения
-var fullname = "Фамилия Имя Отчество" // ФИО
-var name = "Имя" // Имя
+var birthdate = "21.04.2006"; // Дата рождения
+var fullname = "Прасол Іван Сергійович" // ФИО
+var name = "Іван " // Имя
 
 // Паспорт
-var passport_id = "123456789" // Номер паспорта
+var passport_id = "837081743" // Номер паспорта
 
 // КПП
-var kpp_id = "0123456789" // ИНН
+var kpp_id = "732703543043" // ИНН
 
 // Права
-var rights_valid_until = "01.01.2022" // Права "Дійсні до"
-var rights_categories = "A, B" // Права "Категорії"
+var rights_valid_until = "21.06.2025" // Права "Дійсні до"
+var rights_categories = "B" // Права "Категорії"
 var rights_tsc = "ТСЦ 8631" // Права "Видав
 var rights_id = "KBE968639" // Права "Серія та номер""
 
